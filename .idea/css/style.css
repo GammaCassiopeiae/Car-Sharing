@@ -142,3 +142,21 @@ body {
 
 .btn-large { padding: 1.375em 3.4375em; }
 .btn-small { padding: 0.6875em 1.875em; }
+
+/* service */
+#service {
+    background-color: var(--gray-color-200);
+    text-align: center;
+}
+
+#service .section__title {
+    color: var(--white-color);
+}
+#service .section__column--title {
+    color: var(--white-color);
+}
+#service .section__column--subtitle {
+    color: var(--gray-color-300);
+    margin-right: 0;
+}
+/* e: service */
