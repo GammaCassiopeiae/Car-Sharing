@@ -170,6 +170,7 @@ body { font-family: var(--primary-font), sans-serif; font-size: 16px;}
 /* e: service */
 
 
+
 /* footer */
 .footer {
     background-color: var(--gray-color-200);
@@ -198,3 +199,21 @@ body { font-family: var(--primary-font), sans-serif; font-size: 16px;}
     color: var(--gray-color-400);
 }
 /* e: footer */
+
+/* contact */
+/* TODO!!! */
+
+.form {
+
+}
+.form__input {
+    width: 100%;
+    border: 1px solid var(--gray-color-400);
+    border-radius: 8px;
+    padding: 8px 12px;
+    margin-bottom: 20px;
+}
+.form__checkbox {
+    margin-bottom: 20px;
+}
+/* e: contact */
